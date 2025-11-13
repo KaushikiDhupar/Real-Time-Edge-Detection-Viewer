@@ -19,20 +19,16 @@ A minimal scaffold for an Android app that captures camera frames, processes the
 
 ---
 
-## 📷 Screenshots / GIF
-*Add screenshots or a GIF here showing:*
-- Raw camera feed
-- Edge-detected output
-- FPS overlay and resolution display
+## 📷 Screenshots 
 
-Example Markdown for adding screenshots:
-```markdown
-![App - Raw feed](screenshots/raw.png)
-![App - Edge detection](screenshots/edge.png)
-![Web viewer](screenshots/web_viewer.png)
-```
+### Raw Camera Feed
+![Raw Camera Feed](https://github.com/KaushikiDhupar/Real-Time-Edge-Detection-Viewer/blob/main/assets/rawFeed.png)
 
----
+### Edge-Detected Output
+![Edge Detection](https://github.com/KaushikiDhupar/Real-Time-Edge-Detection-Viewer/blob/main/assets/edgeDetection.png)
+
+### FPS Overlay & Resolution Display
+![Frame Stats](https://github.com/KaushikiDhupar/Real-Time-Edge-Detection-Viewer/blob/main/assets/frame_stats.png)
 
 ## ⚙️ Setup instructions (NDK, OpenCV dependencies)
 
